@@ -98,3 +98,6 @@ python manage.py runserver
 
 }
 ```
+
+### Автор
+Данил Воронин https://github.com/Bogdan-Malina
